@@ -1,0 +1,31 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: devops-demo
+  namespace: default
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      bb: web
+  template:
+    metadata:
+      labels:
+        bb: web
+    spec:
+      containers:
+        - name: devops-demo
+          image: kotidevops/gcdemo:latest
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: devops-demo
+  namespace: default
+spec:
+  selector:
+    app: devops-demo
+  ports:
+    - port: 8080
+      targetPort: 8080
+  type: LoadBalancer
