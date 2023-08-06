@@ -1,0 +1,222 @@
+Filesystem Size Used Avail Use% Mounted on
+
+devtmpfs 7.8G 0 7.8G 0% /dev
+
+tmpfs 7.8G 0 7.8G 0% /dev/shm
+
+tmpfs 7.8G 2.4M 7.8G 1% /run
+
+tmpfs 7.8G 0 7.8G 0% /sys/fs/cgroup
+
+/dev/nvme0n1p1 100G 4.8G 96G 5% /
+
+tmpfs 15G 12K 15G 1% /var/lib/kubelet/pods/bf0e0340-614f-420c-9175-d620332ef8e8/volumes/kubernetes.io~projected/kube-api-access-krmft
+
+tmpfs 768M 12K 768M 1% /var/lib/kubelet/pods/9d5e8f35-4dc8-4e94-bc6c-7de37b1264fa/volumes/kubernetes.io~projected/kube-api-access-jwl92
+
+tmpfs 200M 12K 200M 1% /var/lib/kubelet/pods/d42350c5-0b16-46ac-83db-cc0315a538bc/volumes/kubernetes.io~projected/kube-api-access-pbzgs
+
+tmpfs 15G 12K 15G 1% /var/lib/kubelet/pods/6db91b7b-255e-4231-9e7e-9e1372eeba11/volumes/kubernetes.io~projected/kube-api-access-nrz74
+
+overlay 100G 4.8G 96G 5% /var/lib/docker/overlay2/1b467013564eedf86026263fce60e0811568e972418df58a903b20014d974702/merged
+
+overlay 100G 4.8G 96G 5% /var/lib/docker/overlay2/79e40a04f5b0dee8a9858583e59db8d5e1ecb55957098c19325382a116611e2a/merged
+
+overlay 100G 4.8G 96G 5% /var/lib/docker/overlay2/17b6f9e1753dbc16c39e07c79a4deebf5d20b162ac34e6b0ebe83310c3aac77b/merged
+
+shm 64M 0 64M 0% /var/lib/docker/containers/78fbe6e1cbb4a9a075b56df9e09308ff1c6eed81822e532b94bba7853ac92173/mounts/shm
+
+shm 64M 0 64M 0% /var/lib/docker/containers/760a7372ccee1a608f5a7c375ad59fa666ef98c0a4e8df8113af18a041443cc0/mounts/shm
+
+shm 64M 0 64M 0% /var/lib/docker/containers/9eeb97a1ff3520fb93433d214f09672b83bacc75ce7011659d6d5a38dfa42976/mounts/shm
+
+overlay 100G 4.8G 96G 5% /var/lib/docker/overlay2/6dc8a66bfa32253b3b3dfad08efc430d28ede284c754aea22edb322f690fa074/merged
+
+overlay 100G 4.8G 96G 5% /var/lib/docker/overlay2/e180490d49b91f7d9654b1fa55abedcda274e83602f466f6f16bfeb78e580086/merged
+
+overlay 100G 4.8G 96G 5% /var/lib/docker/overlay2/7df10f7c189e6227a5219b6a01736e0dad3ada1d7febc2ff2fdaf54ac44fbbf1/merged
+
+tmpfs 512M 24K 512M 1% /var/lib/kubelet/pods/d66ac032-3d1d-492a-9d5f-82cde304f8bf/volumes/kubernetes.io~secret/certificates
+
+tmpfs 15G 12K 15G 1% /var/lib/kubelet/pods/c7449949-22ab-4648-b483-71cccd540f99/volumes/kubernetes.io~projected/kube-api-access-c7hgf
+
+tmpfs 512M 12K 512M 1% /var/lib/kubelet/pods/d66ac032-3d1d-492a-9d5f-82cde304f8bf/volumes/kubernetes.io~projected/kube-api-access-5d586
+
+overlay 100G 4.8G 96G 5% /var/lib/docker/overlay2/58ee00417eec947c14f715a42c57e20e680cb6a4f36dcedb5c68edb33d525a72/merged
+
+overlay 100G 4.8G 96G 5% /var/lib/docker/overlay2/3064c88a1aff0288054c57500ff2f11db3ccb61dcee8b5c4882cf115a953ace1/merged
+
+shm 64M 0 64M 0% /var/lib/docker/containers/e9ef5a9348663c62b0771cf327fcea622a03f03428bc8a93fe30562bb7257800/mounts/shm
+
+shm 64M 0 64M 0% /var/lib/docker/containers/737507b7753abb687153bd9156a2419153e7c33cfb98ead4d426bcd38e133bc9/mounts/shm
+
+overlay 100G 4.8G 96G 5% /var/lib/docker/overlay2/c65d419090f3319994dece153c595f5c758ac2420b60c16608a80b0f1b8ae545/merged
+
+shm 64M 0 64M 0% /var/lib/docker/containers/e4f83d4cb809f2f6cb2224d7529ef0ed1ae264a9ef551b25a1cdc1faa7a6125b/mounts/shm
+
+overlay 100G 4.8G 96G 5% /var/lib/docker/overlay2/1ec0f4fa19c6a35ebf8798d720eb131a80c5224812c8f84eae2b16ae02cb8b7f/merged
+
+overlay 100G 4.8G 96G 5% /var/lib/docker/overlay2/79fe190197b3837a8dd0d124832cdda7c49383f9a30157f8ee8ef0aa0fee97b7/merged
+
+overlay 100G 4.8G 96G 5% /var/lib/docker/overlay2/23f1bf466cc00e32d9a1f4d0a54afd2b177413eacdb827721c3a556451a38ec8/merged
+
+overlay 100G 4.8G 96G 5% /var/lib/docker/overlay2/d148037dedab725af94eb37add442623ad5654953abef2af5b5cd1930e104f06/merged
+
+tmpfs 3.3G 24K 3.3G 1% /var/lib/kubelet/pods/c4d2af37-cb42-4355-9407-6be27c4c1e8d/volumes/kubernetes.io~empty-dir/istio-envoy
+
+tmpfs 3.3G 8.0K 3.3G 1% /var/lib/kubelet/pods/c4d2af37-cb42-4355-9407-6be27c4c1e8d/volumes/kubernetes.io~secret/mongocertpa-volume
+
+tmpfs 3.3G 8.0K 3.3G 1% /var/lib/kubelet/pods/c4d2af37-cb42-4355-9407-6be27c4c1e8d/volumes/kubernetes.io~downward-api/istio-podinfo
+
+tmpfs 3.3G 12K 3.3G 1% /var/lib/kubelet/pods/c4d2af37-cb42-4355-9407-6be27c4c1e8d/volumes/kubernetes.io~secret/certspdb-volume
+
+tmpfs 3.3G 12K 3.3G 1% /var/lib/kubelet/pods/c4d2af37-cb42-4355-9407-6be27c4c1e8d/volumes/kubernetes.io~projected/kube-api-access-cf7s5
+
+tmpfs 3.3G 4.0K 3.3G 1% /var/lib/kubelet/pods/c4d2af37-cb42-4355-9407-6be27c4c1e8d/volumes/kubernetes.io~projected/istio-token
+
+overlay 100G 4.8G 96G 5% /var/lib/docker/overlay2/564c7dd3df4ef8add97ffd645889de31a61c794a73db44bc00f1f2a41d7dfbdd/merged
+
+shm 64M 0 64M 0% /var/lib/docker/containers/b80fb1bbde2b62027a8d10e26328de6e89808799bc949f09ec39ba432eaea49b/mounts/shm
+
+overlay 100G 4.8G 96G 5% /var/lib/docker/overlay2/85f5f9aae551d84440439a230f0655c7699119bf79baf2a318f21cdb536a1356/merged
+
+overlay 100G 4.8G 96G 5% /var/lib/docker/overlay2/e690e36c66aef87198c748c01e7b3bdb39bf84a9ae29c8ffa0e6794eb2a14c30/merged
+
+overlay 100G 4.8G 96G 5% /var/lib/docker/overlay2/8c373d61a318149f1ba819604a9265dc695e16d2567def7f79aa61ed1230d8a2/merged
+
+tmpfs 500M 0 500M 0% /var/lib/kubelet/pods/f69549cf-50df-4201-a5cf-dd97b37c115f/volumes/kubernetes.io~secret/ingressgateway-certs
+
+tmpfs 3.0G 24K 3.0G 1% /var/lib/kubelet/pods/ee45d0f7-05bb-49a5-866f-16a731275abb/volumes/kubernetes.io~empty-dir/istio-envoy
+
+tmpfs 500M 0 500M 0% /var/lib/kubelet/pods/f69549cf-50df-4201-a5cf-dd97b37c115f/volumes/kubernetes.io~secret/ingressgateway-ca-certs
+
+tmpfs 500M 8.0K 500M 1% /var/lib/kubelet/pods/f69549cf-50df-4201-a5cf-dd97b37c115f/volumes/kubernetes.io~downward-api/podinfo
+
+tmpfs 500M 8.0K 500M 1% /var/lib/kubelet/pods/3852a8e3-fa48-4e5c-a821-6d47ea3ec82d/volumes/kubernetes.io~downward-api/podinfo
+
+tmpfs 500M 0 500M 0% /var/lib/kubelet/pods/3852a8e3-fa48-4e5c-a821-6d47ea3ec82d/volumes/kubernetes.io~secret/ingressgateway-ca-certs
+
+tmpfs 3.0G 8.0K 3.0G 1% /var/lib/kubelet/pods/ee45d0f7-05bb-49a5-866f-16a731275abb/volumes/kubernetes.io~downward-api/istio-podinfo
+
+tmpfs 500M 0 500M 0% /var/lib/kubelet/pods/3852a8e3-fa48-4e5c-a821-6d47ea3ec82d/volumes/kubernetes.io~secret/ingressgateway-certs
+
+tmpfs 3.0G 4.0K 3.0G 1% /var/lib/kubelet/pods/ee45d0f7-05bb-49a5-866f-16a731275abb/volumes/kubernetes.io~projected/istio-token
+
+tmpfs 500M 4.0K 500M 1% /var/lib/kubelet/pods/3852a8e3-fa48-4e5c-a821-6d47ea3ec82d/volumes/kubernetes.io~projected/istio-token
+
+tmpfs 500M 4.0K 500M 1% /var/lib/kubelet/pods/f69549cf-50df-4201-a5cf-dd97b37c115f/volumes/kubernetes.io~projected/istio-token
+
+tmpfs 500M 12K 500M 1% /var/lib/kubelet/pods/3852a8e3-fa48-4e5c-a821-6d47ea3ec82d/volumes/kubernetes.io~projected/kube-api-access-4ftv7
+
+tmpfs 500M 12K 500M 1% /var/lib/kubelet/pods/f69549cf-50df-4201-a5cf-dd97b37c115f/volumes/kubernetes.io~projected/kube-api-access-jvctp
+
+tmpfs 3.0G 12K 3.0G 1% /var/lib/kubelet/pods/ee45d0f7-05bb-49a5-866f-16a731275abb/volumes/kubernetes.io~projected/kube-api-access-9bfvk
+
+tmpfs 3.0G 8.0K 3.0G 1% /var/lib/kubelet/pods/a8a1ea0a-4e4f-4b0b-a077-c0eedd99a70a/volumes/kubernetes.io~downward-api/istio-podinfo
+
+tmpfs 3.0G 24K 3.0G 1% /var/lib/kubelet/pods/a8a1ea0a-4e4f-4b0b-a077-c0eedd99a70a/volumes/kubernetes.io~empty-dir/istio-envoy
+
+tmpfs 3.0G 4.0K 3.0G 1% /var/lib/kubelet/pods/a8a1ea0a-4e4f-4b0b-a077-c0eedd99a70a/volumes/kubernetes.io~projected/istio-token
+
+tmpfs 3.0G 12K 3.0G 1% /var/lib/kubelet/pods/a8a1ea0a-4e4f-4b0b-a077-c0eedd99a70a/volumes/kubernetes.io~projected/kube-api-access-ljpkr
+
+overlay 100G 4.8G 96G 5% /var/lib/docker/overlay2/d7a256507523861ed04186f392033d905872d405ff705de8f0975dbddcba7e7f/merged
+
+overlay 100G 4.8G 96G 5% /var/lib/docker/overlay2/05da59766dbd6e7f585ca95bf96163251a9a65b16724f1303723efecf5cbfc1a/merged
+
+overlay 100G 4.8G 96G 5% /var/lib/docker/overlay2/4c8501edad4221cfc4a85c9b553bc36b0c07bf0f685492b31eb05a91fc719edf/merged
+
+overlay 100G 4.8G 96G 5% /var/lib/docker/overlay2/1198a02ac045d8120f0644ab5088285d009becda3417aa8fd2674399ca559545/merged
+
+shm 64M 0 64M 0% /var/lib/docker/containers/0a28ab494dedac821f14c105a62b594e5a53951644033bb43a772ccc3ea034e2/mounts/shm
+
+shm 64M 0 64M 0% /var/lib/docker/containers/d2e138329b28c1cd2816654fbbeca7d6d92a0cd391253d7354c43cbe9d8d6ec8/mounts/shm
+
+shm 64M 0 64M 0% /var/lib/docker/containers/8344e1d9f61d81fed5cfc8176337618f4aa20cf590b4a5bb49a83cbe4277919b/mounts/shm
+
+shm 64M 0 64M 0% /var/lib/docker/containers/1e3e368798005392c165608b989c15be2de36a0ee6966cd33e450996ab60431b/mounts/shm
+
+overlay 100G 4.8G 96G 5% /var/lib/docker/overlay2/9dd968318e9c7831274951e63a3803cc8c455e5135672ceb2bd15dbd5e500ab8/merged
+
+overlay 100G 4.8G 96G 5% /var/lib/docker/overlay2/c3195469d434988c7afa8b4ca3c0aaaa1a784fdf7a2cb77e512f1d292531b91e/merged
+
+overlay 100G 4.8G 96G 5% /var/lib/docker/overlay2/d3bf6435de59589ae540ed086cfa06e09202d68faf31b8e423236afd803fe082/merged
+
+overlay 100G 4.8G 96G 5% /var/lib/docker/overlay2/d270dcab9fcb1abc50d95a700161f32746c1101f8dd8891f1ac8ea7ada455a1d/merged
+
+overlay 100G 4.8G 96G 5% /var/lib/docker/overlay2/852fac58e59c8b0a0857f25c02b9c0bdbafcf1c95d95909f5046813001ee5d8d/merged
+
+overlay 100G 4.8G 96G 5% /var/lib/docker/overlay2/b585e1e5548541ad6c574a5d4533655e81ffe1101c122fcfb15ee493c8670d76/merged
+
+tmpfs 15G 8.0K 15G 1% /var/lib/kubelet/pods/95f1d823-1fd1-4510-b35f-e456e035234c/volumes/kubernetes.io~downward-api/istio-podinfo
+
+tmpfs 15G 8.0K 15G 1% /var/lib/kubelet/pods/b42104a2-8daf-4e7f-88ec-58b3b725b824/volumes/kubernetes.io~downward-api/istio-podinfo
+
+tmpfs 15G 24K 15G 1% /var/lib/kubelet/pods/95f1d823-1fd1-4510-b35f-e456e035234c/volumes/kubernetes.io~empty-dir/istio-envoy
+
+tmpfs 15G 24K 15G 1% /var/lib/kubelet/pods/b42104a2-8daf-4e7f-88ec-58b3b725b824/volumes/kubernetes.io~empty-dir/istio-envoy
+
+tmpfs 15G 12K 15G 1% /var/lib/kubelet/pods/95f1d823-1fd1-4510-b35f-e456e035234c/volumes/kubernetes.io~secret/tls-secret
+
+tmpfs 15G 12K 15G 1% /var/lib/kubelet/pods/b42104a2-8daf-4e7f-88ec-58b3b725b824/volumes/kubernetes.io~projected/kube-api-access-2h5k8
+
+tmpfs 15G 12K 15G 1% /var/lib/kubelet/pods/95f1d823-1fd1-4510-b35f-e456e035234c/volumes/kubernetes.io~projected/kube-api-access-md8gl
+
+tmpfs 15G 4.0K 15G 1% /var/lib/kubelet/pods/b42104a2-8daf-4e7f-88ec-58b3b725b824/volumes/kubernetes.io~projected/istio-token
+
+tmpfs 15G 4.0K 15G 1% /var/lib/kubelet/pods/95f1d823-1fd1-4510-b35f-e456e035234c/volumes/kubernetes.io~projected/istio-token
+
+overlay 100G 4.8G 96G 5% /var/lib/docker/overlay2/8fc8ae1c79c41ef69c07fc42a88bb01b67e7a8266ebfecc36b2dee1bd9375e9e/merged
+
+overlay 100G 4.8G 96G 5% /var/lib/docker/overlay2/6909e6fe2d02e67425de14d69c93fb7039290475890dd820db90bbd8475c4787/merged
+
+shm 64M 0 64M 0% /var/lib/docker/containers/16104d8948d66b8c49cc91799c53cbadbf6f7deb63b59fb3fc539bd79bcafa14/mounts/shm
+
+shm 64M 0 64M 0% /var/lib/docker/containers/3cfba655ecbcbc60973550e5f5c02f75e73ad5ef25f1d0cc0cfdcbe2cd851924/mounts/shm
+
+overlay 100G 4.8G 96G 5% /var/lib/docker/overlay2/769dfdae1e16565cfb99d37efdd2f84270fadb6f4aca17621e238cc536eb971d/merged
+
+overlay 100G 4.8G 96G 5% /var/lib/docker/overlay2/87355c50e1aa845ee3ac89fca4a0d86fdd5e456472aba63aa429fefe06601d8f/merged
+
+overlay 100G 4.8G 96G 5% /var/lib/docker/overlay2/67edc074393f1d2edbc865e6114604d10f1afbdcd0d5581cb24f06891f158c67/merged
+
+overlay 100G 4.8G 96G 5% /var/lib/docker/overlay2/f988d46df874f240072455dae0cf55026437ee2e9e933379c5edf204ae4fc0bf/merged
+
+tmpfs 15G 0 15G 0% /var/lib/kubelet/pods/1c358f7a-1470-4969-8a13-f1c596d57194/volumes/kubernetes.io~secret/tls-assets
+
+tmpfs 15G 8.0K 15G 1% /var/lib/kubelet/pods/1c358f7a-1470-4969-8a13-f1c596d57194/volumes/kubernetes.io~downward-api/istio-podinfo
+
+tmpfs 15G 24K 15G 1% /var/lib/kubelet/pods/1c358f7a-1470-4969-8a13-f1c596d57194/volumes/kubernetes.io~empty-dir/istio-envoy
+
+tmpfs 15G 4.0K 15G 1% /var/lib/kubelet/pods/1c358f7a-1470-4969-8a13-f1c596d57194/volumes/kubernetes.io~secret/config-volume
+
+tmpfs 15G 4.0K 15G 1% /var/lib/kubelet/pods/1c358f7a-1470-4969-8a13-f1c596d57194/volumes/kubernetes.io~projected/istio-token
+
+tmpfs 15G 12K 15G 1% /var/lib/kubelet/pods/1c358f7a-1470-4969-8a13-f1c596d57194/volumes/kubernetes.io~projected/kube-api-access-7ks9q
+/dev/nvme2n1 50G 32K 50G 1% /var/lib/kubelet/plugins/kubernetes.io/csi/pv/pvc-708523c5-5803-43cb-b5f7-799bb23d42ad/globalmount
+
+overlay 100G 4.8G 96G 5% /var/lib/docker/overlay2/0e3eda1d06f3593638b62c78da0fb81fee2e2f5f2187f14e78570d6805c175e2/merged
+
+shm 64M 0 64M 0% /var/lib/docker/containers/773d02e95fe5d14a30dd68990f3e00802545828e9970d90df95b79fa85780d02/mounts/shm
+
+overlay 100G 4.8G 96G 5% /var/lib/docker/overlay2/2493967cf5c4d85d7e182db8e50942dbb9514171165578ead2907002b6c5e77a/merged
+
+overlay 100G 4.8G 96G 5% /var/lib/docker/overlay2/215d799824d6e816189fe93aa8251fbe8d1d65e496ed5549ac1acd7e02cc4d88/merged
+
+overlay 100G 4.8G 96G 5% /var/lib/docker/overlay2/0670b7dc3a7c95e4742a2d21fad1ae3be2595cc17f397b81de8c8cdebe68a4c1/merged
+
+tmpfs 15G 24K 15G 1% /var/lib/kubelet/pods/3582c3ce-7a96-45f1-8378-701057a126ef/volumes/kubernetes.io~empty-dir/istio-envoy
+
+tmpfs 15G 8.0K 15G 1% /var/lib/kubelet/pods/3582c3ce-7a96-45f1-8378-701057a126ef/volumes/kubernetes.io~downward-api/istio-podinfo
+
+tmpfs 15G 12K 15G 1% /var/lib/kubelet/pods/3582c3ce-7a96-45f1-8378-701057a126ef/volumes/kubernetes.io~projected/kube-api-access-822b2
+
+tmpfs 15G 4.0K 15G 1% /var/lib/kubelet/pods/3582c3ce-7a96-45f1-8378-701057a126ef/volumes/kubernetes.io~projected/istio-token
+
+overlay 100G 4.8G 96G 5% /var/lib/docker/overlay2/ffc9ec2cc9a0f2f05c2f99d3631e3ce94c414ffc9d280c1a0dbe3e116a5fee18/merged
+
+shm 64M 0 64M 0% /var/lib/docker/containers/f42d0e705f339b77f645696f1e34bcfcd8b726eed5a38fb007c2ee56ee19d39c/mounts/shm
+
+overlay 100G 4.8G 96G 5% /var/lib/docker/overlay2/b30e86df8581a5ee07b9979635bfcbdc47b933f6c77df0ddd497b1c3bf0e0dbf/merged
+
+overlay 100G 4.8G 96G 5% /var/lib/docker/overlay2/4a77cfc04e0c1b21c2d42ea574429a0829ac732e08b6d6bac04ad95635054b9f/merged

@@ -1,0 +1,2 @@
+GroupId,GroupName,VpcId,Description,OwnerId,InboundRulesCount,OutboundRulesCount,Tags
+sg-04aba0e10281c76e7,stage-cp-ue1,vpc-06813c1f2fab6d1c9,Allow Kubernetes Control Plane of stage-cp-ue1 to communicate with worker nodes,811254015683,0,1,
